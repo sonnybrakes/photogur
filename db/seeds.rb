@@ -7,19 +7,19 @@
 #   Mayor.create(name: 'Emanuel', city: cities.first)
 
 Picture.create(
-  title:  'zerohedge',
-  artist: '407,000 Workers Stunned As Pension Fund Proposes 60% Cuts, Treasury Says "Not Enough"',
-  url:    'http://www.zerohedge.com/news/2016-05-21/407000-workers-stunned-pension-fund-proposes-60-cuts-treasury-says-not-enough'
+  title:  'Gibson',
+  artist: 'Vintage Sunburst ES335',
+  url:    'http://static1.squarespace.com/static/52d89844e4b05a02fb812776/t/530c3e4ce4b06fd3871977ee/1393311308920/Gibson-Vintage-Sunburst-ES-335-VS.jpg?format=1500w'
 )
 
 Picture.create(
-  title:  'Beautiful',
-  artist: 'Sarah Shahi',
-  url:    'http://porhomme.com/wp-content/uploads/2009/01/sarah-shahi-7.jpg'
+  title:  'Rickenbacker',
+  artist: '4001',
+  url:    'https://i.warosu.org/data/fa/img/0080/19/1396207374076.jpg'
 )
 
-# Picture.create(
-#   title:  'Into the Poppies',
-#   artist: 'John Wilhelm',
-#   url:    'http://bitmakerlabs.s3.amazonaws.com/photogur/girl.jpg'
-# )
+Picture.create(
+  title:  'Fender',
+  artist: 'Stratocaster',
+  url:    'http://www.harmonycentral.com/forum/filedata/fetch?id=31031587&type=thumb'
+)
